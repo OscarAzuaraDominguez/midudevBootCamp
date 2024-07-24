@@ -3,7 +3,7 @@ import Mensaje from './Mensaje.js';
 
 
 const Description = () => {
-  return <h1>Oscar React BootCamp</h1>
+  return <h1>Oscar React BootCamp part 1</h1>
 }
 
 const App = () => {
